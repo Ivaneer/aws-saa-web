@@ -1,0 +1,1 @@
+Â¿CuÃ¡l es la funciÃ³n principal de Amazon S3? Â¡Es almacenamiento de objetos con alta disponibilidad y resiliencia!
